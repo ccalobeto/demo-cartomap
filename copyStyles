@@ -1,3 +1,0 @@
-#!/bin/bash
-
-cp -f ../publishing-pmtile/static/data/styles/* static/data/styles/

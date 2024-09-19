@@ -5,3 +5,6 @@ Copy the style to test from [repo](https://github.com/ccalobeto/publishing-pmtil
 ## Use the style
 
 Go to *static/data/styles* and edit the `url` key with your recent pmtile location in `Public R2.dev Bucket URL`. Then in `src/routes/+page.svelte` of your other project edit the path of the recent custom style. Finally edit the initial coordinates.
+
+## See more styles with Carto
+[carto](https://docs.carto.com/carto-for-developers/carto-for-react/guides/basemaps)
